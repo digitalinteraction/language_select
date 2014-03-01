@@ -53,7 +53,13 @@ module LanguageSelect
     "ur" => "Urdu",
     "vi" => "Vietnamese",
     "zh" => "Chinese",
-    "zu" => "Zulu"
+    "zu" => "Zulu",
+    "kn" => "Kannada",
+    "te" => "Telugu",
+    "kok" => "Konkani",
+    "bho" => "Bhojpuri",
+    "bn" => "Bengali"
+    
   } unless const_defined?("LANGUAGES")
 
   LANGUAGES_FOR_SELECT = LANGUAGES.invert.sort unless const_defined?("LANGUAGES_FOR_SELECT")
