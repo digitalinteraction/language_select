@@ -58,7 +58,8 @@ module LanguageSelect
     "te" => "Telugu",
     "kok" => "Konkani",
     "bho" => "Bhojpuri",
-    "bn" => "Bengali"
+    "bn" => "Bengali",
+    "mr" => "Marathi"
     
   } unless const_defined?("LANGUAGES")
 
