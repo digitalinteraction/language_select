@@ -10,6 +10,7 @@ module LanguageSelect
     "bs" => "Bosnian",
     "bg" => "Bulgarian",
     "da" => "Danish",
+    "de" => "German",
     "el" => "Greek",
     "kl" => "Greenlandic",
     "en" => "English",
